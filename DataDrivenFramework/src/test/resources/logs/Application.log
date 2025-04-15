@@ -1,0 +1,41 @@
+09/11/2024 12:30:33 devpinoyLogger Config file loaded!!!
+09/11/2024 12:30:33 devpinoyLogger OR file loaded!!!
+09/11/2024 12:30:35 devpinoyLogger Chrome lounched
+09/11/2024 12:30:36 devpinoyLogger Navigated to: https://www.way2automation.com/angularjs-protractor/banking/#/login
+09/11/2024 12:30:37 devpinoyLogger Lunching the login test
+09/11/2024 12:30:37 devpinoyLogger Clicking on an Element : btn_Login
+09/11/2024 12:30:37 devpinoyLogger Element is present : By.xpath: //button[@ng-class='btnClass1']
+09/11/2024 12:30:37 devpinoyLogger Login Successfully!!
+09/11/2024 12:30:38 devpinoyLogger Clicking on an Element : btn_AddCustomer
+09/11/2024 12:30:38 devpinoyLogger Typing in : txt_FirstName entered value as Krupal
+09/11/2024 12:30:39 devpinoyLogger Typing in : txt_LastName entered value as Chavda
+09/11/2024 12:30:39 devpinoyLogger Typing in : txt_PostCode entered value as A234wd
+09/11/2024 12:30:39 devpinoyLogger Clicking on an Element : btn_Addcustomer
+09/11/2024 12:30:39 devpinoyLogger Customer has been added and verified over the alert
+09/11/2024 12:30:39 devpinoyLogger Customer has been added
+09/11/2024 12:30:39 devpinoyLogger Clicking on an Element : btn_AddCustomer
+09/11/2024 12:30:40 devpinoyLogger Typing in : txt_FirstName entered value as Ratan
+09/11/2024 12:30:40 devpinoyLogger Typing in : txt_LastName entered value as Tata
+09/11/2024 12:30:40 devpinoyLogger Typing in : txt_PostCode entered value as A234wd
+09/11/2024 12:30:40 devpinoyLogger Clicking on an Element : btn_Addcustomer
+09/11/2024 12:30:40 devpinoyLogger Customer has been added and verified over the alert
+09/11/2024 12:30:40 devpinoyLogger Customer has been added
+09/11/2024 12:30:40 devpinoyLogger Clicking on an Element : btn_AddCustomer
+09/11/2024 12:30:41 devpinoyLogger Typing in : txt_FirstName entered value as Mukesh
+09/11/2024 12:30:41 devpinoyLogger Typing in : txt_LastName entered value as Ambani
+09/11/2024 12:30:41 devpinoyLogger Typing in : txt_PostCode entered value as A234wd
+09/11/2024 12:30:41 devpinoyLogger Clicking on an Element : btn_Addcustomer
+09/11/2024 12:30:41 devpinoyLogger Customer has been added and verified over the alert
+09/11/2024 12:30:41 devpinoyLogger Customer has been added
+09/11/2024 12:30:41 devpinoyLogger Clicking on an Element : btn_AddCustomer
+09/11/2024 12:30:41 devpinoyLogger Typing in : txt_FirstName entered value as Gautam
+09/11/2024 12:30:42 devpinoyLogger Typing in : txt_LastName entered value as Adani
+09/11/2024 12:30:42 devpinoyLogger Typing in : txt_PostCode entered value as A234wd
+09/11/2024 12:30:42 devpinoyLogger Clicking on an Element : btn_Addcustomer
+09/11/2024 12:30:42 devpinoyLogger Customer has been added and verified over the alert
+09/11/2024 12:30:42 devpinoyLogger Customer has been added
+09/11/2024 12:30:42 devpinoyLogger Clicking on an Element : btn_OpenAccount
+09/11/2024 12:30:42 devpinoyLogger Selecting the dropdown value from : drp_Customer entered value as Krupal Chavda
+09/11/2024 12:30:43 devpinoyLogger Selecting the dropdown value from : drp_Currency entered value as Rupee
+09/11/2024 12:30:43 devpinoyLogger Clicking on an Element : btn_Process
+09/11/2024 12:30:43 devpinoyLogger Test Execution completed
