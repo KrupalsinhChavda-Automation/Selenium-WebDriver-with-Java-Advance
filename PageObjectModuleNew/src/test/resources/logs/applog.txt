@@ -1,0 +1,6 @@
+INFO    2025-02-01 14:11:10,933 [main] base.BaseTest  - Config properties loaded !!!
+INFO    2025-02-01 14:11:10,933 [main] base.BaseTest  - OR properties loaded !!!
+INFO    2025-02-01 14:11:11,904 [main] base.BaseTest  - Launching Chrome !!!
+INFO    2025-02-01 14:11:13,633 [main] base.BaseTest  - Navigated to : https://www.carwale.com/
+INFO    2025-02-01 14:11:13,690 [main] base.BaseTest  - DB Connection established !!!
+INFO    2025-02-01 14:11:15,649 [main] base.BaseTest  - Test Execution completed !!!

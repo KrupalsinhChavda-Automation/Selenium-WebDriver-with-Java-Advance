@@ -1,0 +1,5 @@
+		Reporter.log("Login Successfully!!");
+		Reporter.log("<a target = \"blank\" href=\"C:\\Users\\krupa\\OneDrive\\Desktop\\file_example_JPG_100kB.jpg\">Screenshot</a>");
+		Reporter.log("<br>");
+		Reporter.log("<a target = \"blank\" href=\"C:\\Users\\krupa\\OneDrive\\Desktop\\file_example_JPG_100kB.jpg\"><img src=\"C:\\Users\\krupa\\OneDrive\\Desktop\\file_example_JPG_100kB.jpg\" height=200, weigth=200></img></a>");
+		
