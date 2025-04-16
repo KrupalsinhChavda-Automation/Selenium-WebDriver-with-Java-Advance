@@ -1,5 +1,8 @@
-1. Start Jenkins from Jenkins.war cmd
+1. Start Jenkins from Jenkins.war cmd --> java -jar jenkins.war
+java -jar jenkins.war --enable-future-java
 or java -Dhudson.model.DirectoryBrowserSupport.CSP="" -jar jenkins.war (For HTML Report)
+
+
 2. Add new project and its setup
 3. Add pom.xlm file for this project Configure>> Build >> Root POM, Goals and option --> clean test
 4. for report define extent report file path from Project --> post build Actions- Publish HTML reports 
